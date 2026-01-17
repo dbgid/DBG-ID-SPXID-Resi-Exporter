@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top_asset_size">72dp</dimen>
+    <dimen name="top_asset_margin_top">24dp</dimen>
+    <dimen name="top_asset_margin_end">16dp</dimen>
+</resources>

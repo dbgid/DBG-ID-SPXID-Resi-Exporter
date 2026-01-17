@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DBG ID SPXID Resi Exporter</string>
+    <string name="web_url">https://spx-resi-exporter.dbgidofficial.my.id/</string>
+    <string name="offline_title">Tidak ada koneksi</string>
+    <string name="offline_message">Periksa jaringan lalu coba lagi.</string>
+    <string name="offline_retry">Coba lagi</string>
+    <string name="file_chooser_title">Pilih file</string>
+    <string name="file_chooser_missing">File manager tidak tersedia.</string>
+    <string name="download_start">Mengunduh...</string>
+    <string name="download_enqueued">Download dimulai</string>
+    <string name="download_complete_title">Download selesai</string>
+    <string name="download_complete_message">File berhasil diunduh. Buka file sekarang?</string>
+    <string name="download_complete_text">File selesai diunduh.</string>
+    <string name="download_failed">Download gagal.</string>
+    <string name="open_file">Buka file</string>
+    <string name="download_permission_denied">Izin penyimpanan ditolak.</string>
+    <string name="open_file_missing">Tidak ada aplikasi untuk membuka file.</string>
+    <string name="download_channel_name">Download</string>
+    <string name="download_channel_desc">Notifikasi download</string>
+    <string name="splash_text">Made With &#10084; By Dwi Susanto Aka DBG ID</string>
+    <string name="menu_title">Menu Utama</string>
+    <string name="menu_open_title">Buka Aplikasi</string>
+    <string name="menu_open_desc">Masuk ke halaman webview</string>
+    <string name="menu_clear_title">Bersihkan Excel</string>
+    <string name="menu_clear_desc">Hapus semua file di /Download/DBGID-XLXS</string>
+    <string name="menu_share_title">Bagikan Aplikasi</string>
+    <string name="menu_share_desc">Kirim aplikasi ke teman</string>
+    <string name="clear_excel_title">Bersihkan Excel</string>
+    <string name="clear_excel_message">Hapus semua file di /Download/DBGID-XLXS?</string>
+    <string name="clear_excel_action">Hapus</string>
+    <string name="clear_excel_done">Berhasil menghapus %1$d file.</string>
+    <string name="clear_excel_empty">Tidak ada file untuk dihapus.</string>
+    <string name="share_app_title">Bagikan Aplikasi</string>
+    <string name="share_app_text">Aplikasi DBG ID SPXID Resi Exporter</string>
+    <string name="share_app_failed">Gagal membagikan aplikasi.</string>
+</resources>
